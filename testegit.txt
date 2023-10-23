@@ -1,6 +1,5 @@
 teste123 outroteste HOTFIX1 2222
 Isamel Spaniol
 ismael spaniol add2
-teste issue automaticamente fechada
-asadasdasd
-ssss
+
+Ismael Fez um pull request para este arquivo testegir
